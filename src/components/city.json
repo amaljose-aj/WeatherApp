@@ -1,0 +1,49 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": 8.3,
+      "aqi": 17,
+      "city_name": "Raleigh",
+      "clouds": 72,
+      "country_code": "US",
+      "datetime": "2022-12-22:06",
+      "dewpt": 8.3,
+      "dhi": 0,
+      "dni": 0,
+      "elev_angle": -81.7,
+      "ghi": 0,
+      "gust": 4.2578125,
+      "h_angle": -90,
+      "lat": 32.03349,
+      "lon": -89.52229,
+      "ob_time": "2022-12-22 06:41",
+      "pod": "n",
+      "precip": 0,
+      "pres": 1002.5,
+      "rh": 100,
+      "slp": 1021.26227,
+      "snow": 0,
+      "solar_rad": 0,
+      "sources": ["rtma"],
+      "state_code": "MS",
+      "station": "FSTM6",
+      "sunrise": "12:55",
+      "sunset": "22:57",
+      "temp": 8.3,
+      "timezone": "America/Chicago",
+      "ts": 1671691312,
+      "uv": 0,
+      "vis": 13,
+      "weather": {
+        "icon": "c03n",
+        "description": "Broken clouds",
+        "code": 803
+      },
+      "wind_cdir": "SE",
+      "wind_cdir_full": "southeast",
+      "wind_dir": 146,
+      "wind_spd": 0.3742574
+    }
+  ]
+}
